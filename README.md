@@ -18,7 +18,7 @@
   their choice. 
 - Streets view
 
-![alt text]("Earthquake_Challenge/Images/streets.png")
+![alt text](Earthquake_Challenge/Images/streets.png)
 
 - Satellite view
 
