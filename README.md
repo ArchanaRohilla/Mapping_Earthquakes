@@ -22,7 +22,7 @@
 
 - Satellite view
 
-![alt text]()
+![alt text]("https://github.com/ArchanaRohilla/Mapping_Earthquakes/blob/master/Earthquake_Challenge/Images/satellites.png")
 
 - Light view
 
