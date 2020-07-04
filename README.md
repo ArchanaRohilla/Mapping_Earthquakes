@@ -4,6 +4,9 @@
 
 - In this project, mapping of all the recorded earthquakes in the past seven days has been carried out.
 
+## Software
+JavaScript ES6, Data-Driven Documents (D3) library, Html, CSS
+
 ## Summary 
 
 - The data of the earthquakes has been taken from: 
@@ -16,17 +19,19 @@
 
 - The map can be viewed in three map styles i.e. streets, satellite and light; to allow the users to view the map of 
   their choice. 
-- Streets view
+
+### Streets view
 
 ![alt text](Earthquake_Challenge/Images/streets.png)
 
-- Satellite view
+### Satellite view
 
 ![alt text](Earthquake_Challenge/Images/satellites.png)
 
-- Light view
+### Light view
 
 ![alt text](Earthquake_Challenge/Images/light.png)
+
 
 
 - The earthquakes layer and tectonic plates layer can be switched "ON" and "OFF" as per the users requirement.
