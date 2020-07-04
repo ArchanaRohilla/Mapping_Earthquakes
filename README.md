@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-- In this project, mapping of all the recorded earthquakes in the past seven days has been carried out.
+In this project, mapping of all the recorded earthquakes in the past seven days has been carried out.
 
 ## Software
 JavaScript ES6, Data-Driven Documents (D3) library, Html, CSS
@@ -11,6 +11,7 @@ JavaScript ES6, Data-Driven Documents (D3) library, Html, CSS
 
 - The data of the earthquakes has been taken from: 
   	https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson
+
 - Along with the earthquakes data, tectonic plates data has also been added to the map to illustrate the 
   relationship between the location and frequency of seismic activity and tectonic plates.
 
@@ -19,6 +20,8 @@ JavaScript ES6, Data-Driven Documents (D3) library, Html, CSS
 
 - The map can be viewed in three map styles i.e. streets, satellite and light; to allow the users to view the map of 
   their choice. 
+
+- The earthquakes layer and tectonic plates layer can be switched "ON" and "OFF" as per the users requirement.
 
 ### Streets view
 
@@ -34,4 +37,3 @@ JavaScript ES6, Data-Driven Documents (D3) library, Html, CSS
 
 
 
-- The earthquakes layer and tectonic plates layer can be switched "ON" and "OFF" as per the users requirement.
