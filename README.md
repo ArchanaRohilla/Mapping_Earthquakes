@@ -22,11 +22,11 @@
 
 - Satellite view
 
-![alt text]("https://github.com/ArchanaRohilla/Mapping_Earthquakes/blob/master/Earthquake_Challenge/Images/satellites.png")
+![alt text](Earthquake_Challenge/Images/satellites.png)
 
 - Light view
 
-![alt text]()
+![alt text](Earthquake_Challenge/Images/light.png)
 
 
 - The earthquakes layer and tectonic plates layer can be switched "ON" and "OFF" as per the users requirement.
