@@ -4,7 +4,7 @@
 
 In this project, mapping of all the recorded earthquakes in the past seven days has been carried out.
 
-## Software
+## Tools 
 JavaScript ES6, Data-Driven Documents (D3) library, Html, CSS
 
 ## Summary 
